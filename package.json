@@ -81,7 +81,7 @@
     "source-map-loader": "^5.0.0",
     "style-loader": "4.0.0",
     "stylelint": "16.19.1",
-    "stylelint-config-standard-less": "3.0.1",
+    "stylelint-config-standard-less": "4.1.0",
     "stylelint-less": "4.2.1",
     "ts-jest": "^29",
     "ts-loader": "^9.5.1",
