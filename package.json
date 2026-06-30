@@ -120,7 +120,7 @@
     "mediaelement-plugins": "^5.0.0",
     "openseadragon": "^6.0.0",
     "pdfjs-dist": "3.11.174",
-    "pdfobject": "2.3.0",
+    "pdfobject": "2.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-intersection-observer": "^9.13.0",
