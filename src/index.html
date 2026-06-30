@@ -286,10 +286,10 @@
   <body>
 
     <div id="uv-tabs">
-      <button id="iiifTabButton" class="controls-tab active">
+      <button id="iiifTabButton" class="controls-tab active" style="display: none;">
           IIIF
         </button>
-        <button id="youTubeTabButton" class="controls-tab">YouTube</button>
+        <button id="youTubeTabButton" class="controls-tab" style="display: none;">YouTube</button>
       </div>
 
     <div
@@ -305,7 +305,7 @@
         <ul id="annotation-list"></ul>
       </div>
 
-     <div id="iiifTab" class="controls-tab-content">
+     <div id="iiifTab" class="controls-tab-content" style="display: none;">
       <div class="tab">
         <button class="tablinks active" aria-label="General settings tab" onclick="openTab(event, 'general')">General</button>
         <button class="tablinks" aria-label="Open Seadragon settings tab" onclick="openTab(event, 'osd')">OpenSeadragon</button>
