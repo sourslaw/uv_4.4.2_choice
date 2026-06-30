@@ -109,9 +109,7 @@
       "height": 6953,
       "width": 5652,
       "label": {
-        "en": [
-          "f. 1r"
-        ]
+        "en": ["f. 1r"]
       },
       "items": [
         {
@@ -135,9 +133,7 @@
                     "height": 1024,
                     "width": 832,
                     "label": {
-                      "en": [
-                        "Torso"
-                      ]
+                      "en": ["Torso"]
                     },
                     "service": [
                       {
@@ -165,9 +161,7 @@
                     "height": 1024,
                     "width": 832,
                     "label": {
-                      "en": [
-                        "Internal organs"
-                      ]
+                      "en": ["Internal organs"]
                     },
                     "service": [
                       {
@@ -195,9 +189,7 @@
                     "height": 1024,
                     "width": 832,
                     "label": {
-                      "en": [
-                        "Seminal system"
-                      ]
+                      "en": ["Seminal system"]
                     },
                     "service": [
                       {
@@ -225,9 +217,7 @@
                     "height": 1024,
                     "width": 832,
                     "label": {
-                      "en": [
-                        "Skeletal system"
-                      ]
+                      "en": ["Skeletal system"]
                     },
                     "service": [
                       {
@@ -255,117 +245,113 @@
         },
 
         {
-      "id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll259:2656/canvas/c4",
-      "type": "Canvas",
-      "height": 7151,
-      "width": 6009,
-      "label": {
-        "en": [
-          "f. [iii-v]"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656/full/168,200/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg",
-          "height": 200,
-          "width": 168,
-          "service": [
+          "id": "https://cdm16022.contentdm.oclc.org/iiif/p16022coll259:2656/canvas/c4",
+          "type": "Canvas",
+          "height": 7151,
+          "width": 6009,
+          "label": {
+            "en": ["f. [iii-v]"]
+          },
+          "thumbnail": [
             {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656",
-              "@type": "ImageService2",
-              "profile": "http://iiif.io/api/image/2/level0.json",
-              "sizes": [
+              "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656/full/168,200/0/default.jpg",
+              "type": "Image",
+              "format": "image/jpeg",
+              "height": 200,
+              "width": 168,
+              "service": [
                 {
-                  "width": 860,
-                  "height": 1024
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656",
+                  "@type": "ImageService2",
+                  "profile": "http://iiif.io/api/image/2/level0.json",
+                  "sizes": [
+                    {
+                      "width": 860,
+                      "height": 1024
+                    },
+                    {
+                      "width": 336,
+                      "height": 400
+                    },
+                    {
+                      "width": 168,
+                      "height": 200
+                    },
+                    {
+                      "width": 84,
+                      "height": 100
+                    }
+                  ]
                 },
                 {
-                  "width": 336,
-                  "height": 400
-                },
-                {
-                  "width": 168,
-                  "height": 200
-                },
-                {
-                  "width": 84,
-                  "height": 100
-                }
-              ]
-            },
-            {
-              "@context": "http://iiif.io/api/image/3/context.json",
-              "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656",
-              "type": "ImageService3",
-              "profile": "level0",
-              "sizes": [
-                {
-                  "width": 860,
-                  "height": 1024
-                },
-                {
-                  "width": 336,
-                  "height": 400
-                },
-                {
-                  "width": 168,
-                  "height": 200
-                },
-                {
-                  "width": 84,
-                  "height": 100
+                  "@context": "http://iiif.io/api/image/3/context.json",
+                  "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656",
+                  "type": "ImageService3",
+                  "profile": "level0",
+                  "sizes": [
+                    {
+                      "width": 860,
+                      "height": 1024
+                    },
+                    {
+                      "width": 336,
+                      "height": 400
+                    },
+                    {
+                      "width": 168,
+                      "height": 200
+                    },
+                    {
+                      "width": 84,
+                      "height": 100
+                    }
+                  ]
                 }
               ]
             }
-          ]
-        }
-      ],
-      "items": [
-        {
-          "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656/canvas/c4/page",
-          "type": "AnnotationPage",
+          ],
           "items": [
             {
-              "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656/canvas/c4/image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656/canvas/c4",
-              "body": {
-                "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656/full/860,1024/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 1024,
-                "width": 860,
-                "service": [
-                  {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level2.json",
-                    "width": 6009,
-                    "height": 7151
-                  },
-                  {
-                    "@context": "http://iiif.io/api/image/3/context.json",
-                    "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656",
-                    "type": "ImageService3",
-                    "profile": "level2",
-                    "width": 6009,
-                    "height": 7151
+              "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656/canvas/c4/page",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656/canvas/c4/image",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "target": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656/canvas/c4",
+                  "body": {
+                    "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656/full/860,1024/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 1024,
+                    "width": 860,
+                    "service": [
+                      {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656",
+                        "@type": "ImageService2",
+                        "profile": "http://iiif.io/api/image/2/level2.json",
+                        "width": 6009,
+                        "height": 7151
+                      },
+                      {
+                        "@context": "http://iiif.io/api/image/3/context.json",
+                        "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2656",
+                        "type": "ImageService3",
+                        "profile": "level2",
+                        "width": 6009,
+                        "height": 7151
+                      }
+                    ]
                   }
-                ]
-              }
+                }
+              ]
             }
           ]
         }
       ]
     }
-
-    ]
-  }
-    
   ]
 }
