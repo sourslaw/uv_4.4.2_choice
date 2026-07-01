@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://bl.digirati.io/iiif/ark:/81055/man_10000049.0x000001",
+  "id": "https://raw.githubusercontent.com/sourslaw/uv_4.4.2_choice/refs/heads/dev/src/example_tabula-exhibens.json",
   "type": "Manifest",
   "label": "Tabula exhibens insigiora maris viscers ... = Skeleton, seu compages ossium humani corporis, parte anteriore expressa.",
   "metadata": [
@@ -113,14 +113,14 @@
       },
       "items": [
         {
-          "id": "https://bl.digirati.io/images/ark:/81055/man_10000049.0x000012/canvas/c/0/page",
+          "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2652/canvas/c/0/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://bl.digirati.io/images/ark:/81055/man_10000049.0x000012/canvas/c/0/annotation",
+              "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2652/canvas/c/0/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://bl.digirati.io/images/ark:/81055/man_10000049.0x000012/canvas/c/0",
+              "target": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2652/canvas/c/0",
               "body": {
                 "type": "Choice",
                 "height": 6953,
@@ -146,7 +146,7 @@
                       },
                       {
                         "@context": "http://iiif.io/api/image/3/context.json",
-                        "id": "https://bl.digirati.io/images/v3/ark:/81055/man_10000049.0x000012",
+                        "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2652",
                         "type": "ImageService3",
                         "profile": "level2",
                         "width": 5652,
@@ -174,7 +174,7 @@
                       },
                       {
                         "@context": "http://iiif.io/api/image/3/context.json",
-                        "id": "https://bl.digirati.io/images/v3/ark:/81055/man_10000049.0x000013",
+                        "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2653",
                         "type": "ImageService3",
                         "profile": "level2",
                         "width": 5652,
@@ -202,7 +202,7 @@
                       },
                       {
                         "@context": "http://iiif.io/api/image/3/context.json",
-                        "id": "https://bl.digirati.io/images/v3/ark:/81055/man_10000049.0x000013",
+                        "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2654",
                         "type": "ImageService3",
                         "profile": "level2",
                         "width": 5652,
@@ -230,7 +230,7 @@
                       },
                       {
                         "@context": "http://iiif.io/api/image/3/context.json",
-                        "id": "https://bl.digirati.io/images/v3/ark:/81055/man_10000049.0x000013",
+                        "id": "https://cdm16022.contentdm.oclc.org/iiif/2/p16022coll259:2655",
                         "type": "ImageService3",
                         "profile": "level2",
                         "width": 5652,
