@@ -10,7 +10,7 @@
       "label": "Wellcome Library",
       "manifests": [
         {
-          "@id": "src/example_tabula-exhibens.json",
+          "@id": "dist/example_tabula-exhibens.json",
           "@type": "sc:Manifest",
           "label": "Tabula exhibens insigiora maris viscers (local copy)"
         }
